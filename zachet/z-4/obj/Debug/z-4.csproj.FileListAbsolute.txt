@@ -1,0 +1,7 @@
+K:\абабий\z-4\bin\Debug\z-4.exe.config
+K:\абабий\z-4\bin\Debug\z-4.exe
+K:\абабий\z-4\bin\Debug\z-4.pdb
+K:\абабий\z-4\obj\Debug\z-4.csproj.AssemblyReference.cache
+K:\абабий\z-4\obj\Debug\z-4.csproj.CoreCompileInputs.cache
+K:\абабий\z-4\obj\Debug\z-4.exe
+K:\абабий\z-4\obj\Debug\z-4.pdb
