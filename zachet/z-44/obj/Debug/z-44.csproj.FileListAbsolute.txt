@@ -1,0 +1,7 @@
+D:\z-44\bin\Debug\z-44.exe.config
+D:\z-44\bin\Debug\z-44.exe
+D:\z-44\bin\Debug\z-44.pdb
+D:\z-44\obj\Debug\z-44.csproj.AssemblyReference.cache
+D:\z-44\obj\Debug\z-44.csproj.CoreCompileInputs.cache
+D:\z-44\obj\Debug\z-44.exe
+D:\z-44\obj\Debug\z-44.pdb
