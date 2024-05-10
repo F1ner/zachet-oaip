@@ -1,0 +1,7 @@
+D:\z-40\bin\Debug\z-40.exe.config
+D:\z-40\bin\Debug\z-40.exe
+D:\z-40\bin\Debug\z-40.pdb
+D:\z-40\obj\Debug\z-40.csproj.AssemblyReference.cache
+D:\z-40\obj\Debug\z-40.csproj.CoreCompileInputs.cache
+D:\z-40\obj\Debug\z-40.exe
+D:\z-40\obj\Debug\z-40.pdb
