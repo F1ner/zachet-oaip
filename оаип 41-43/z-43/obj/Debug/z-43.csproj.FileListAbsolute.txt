@@ -1,0 +1,7 @@
+D:\оаипатес\z-43\bin\Debug\z-43.exe.config
+D:\оаипатес\z-43\bin\Debug\z-43.exe
+D:\оаипатес\z-43\bin\Debug\z-43.pdb
+D:\оаипатес\z-43\obj\Debug\z-43.csproj.AssemblyReference.cache
+D:\оаипатес\z-43\obj\Debug\z-43.csproj.CoreCompileInputs.cache
+D:\оаипатес\z-43\obj\Debug\z-43.exe
+D:\оаипатес\z-43\obj\Debug\z-43.pdb
