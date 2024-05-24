@@ -1,0 +1,7 @@
+K:\ababiy oaiip\z-10\bin\Debug\z-10.exe.config
+K:\ababiy oaiip\z-10\bin\Debug\z-10.exe
+K:\ababiy oaiip\z-10\bin\Debug\z-10.pdb
+K:\ababiy oaiip\z-10\obj\Debug\z-10.csproj.AssemblyReference.cache
+K:\ababiy oaiip\z-10\obj\Debug\z-10.csproj.CoreCompileInputs.cache
+K:\ababiy oaiip\z-10\obj\Debug\z-10.exe
+K:\ababiy oaiip\z-10\obj\Debug\z-10.pdb
